@@ -43,6 +43,7 @@ export default function Login() {
                             <button className="btn btn-primary" type="submit" disabled={loading}>
                                 Login
                             </button>
+                        <div> //implement auth properly </div>
                         </div>
                     </form>
                 </div>
