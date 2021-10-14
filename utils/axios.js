@@ -77,3 +77,6 @@ axiosInstance.interceptors.response.use(
 );
 
 export default axiosInstance;
+
+// TODO : 
+// add buy option
