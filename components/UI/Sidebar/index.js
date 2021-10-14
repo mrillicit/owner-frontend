@@ -62,7 +62,7 @@ export default function SideBar(){
                     width: 8px;
                     height: 56px;
                     background: #3570B5;
-                    border-radius: 0px 4px 4px 0px;
+                    border-radius: 10px 40px 40px 10px;
                 }
             `}</style>
         </>
